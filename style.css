@@ -275,7 +275,7 @@ nav .bi {
 
 .slambook .slamNini {
     flex: 0 1 auto;
-    width: 60%;
+    width: 70%;
     min-width: 380px;
     max-width: 650px;
     background: #bb2248;
@@ -286,8 +286,8 @@ nav .bi {
 }
 
 .slamNini p {
-     margin: 8px 0;
-    white-space: nowrap;
+    margin: 8px 0;
+    white-space: wrap;
     padding: 5px 0px; 
     color: #ffff;
     font-size: 20px;
@@ -451,6 +451,7 @@ padding-top: 1rem;
   line-height: 15px;
   font-weight: normal;
   text-align: justify;
+  line-height: 25px;
 
 }
 
